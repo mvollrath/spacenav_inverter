@@ -1,0 +1,4 @@
+<launch>
+  <include file="$(find spacenav_inverter)/tests/offline/test_offline.test" />
+  <include file="$(find spacenav_inverter)/tests/online/test_online.test" />
+</launch>

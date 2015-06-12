@@ -1,0 +1,4 @@
+<launch>
+  <node name="test_spacenav_inverter" pkg="spacenav_inverter" type="inverter.py" />
+  <test test-name="test_spacenav_inverter" pkg="spacenav_inverter" type="test_spacenav_inverter.py" />
+</launch>

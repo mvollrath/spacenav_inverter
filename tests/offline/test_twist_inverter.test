@@ -1,0 +1,3 @@
+<launch>
+  <test test-name="test_twist_inverter" pkg="spacenav_inverter" type="test_twist_inverter.py" />
+</launch>
